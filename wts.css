@@ -1,0 +1,127 @@
+body{
+  text-align: center;
+ }
+  #questiondiv{
+   
+    background-color: white;
+    box-shadow: 10px 10px 30px grey;
+    padding-top:10px;
+    padding-bottom:10px;
+    font-size:25px;
+    height:90%;
+    margin-left:1%;
+  }
+  #question{
+    float:left;
+    margin-bottom:10px;
+    display: inline;
+    font-size: 20px;
+    margin-top: 25px;
+    
+  }
+  .eng img{
+    margin-top: 60px;
+  
+  }
+
+  li{
+    margin-right:10px;
+    font-size: 18px;
+  
+  }
+  #result{
+    font-size: 25px;
+  }
+  button{
+    margin:10px;
+    width: 15%;
+  }
+  .menu{
+    text-align:initial;
+    background-color: aquamarine;
+    padding-bottom: 25px;
+  }
+  
+  #imgdiv, #themediv{
+    width:45%; 
+    display:inline-block; 
+    background-color: aliceblue;
+  }
+  #themediv{
+    margin-right: 5px;
+    float:right;
+  }
+
+
+  .theme{
+    margin-top:2%;
+    background-color: rgb(30, 154, 182);
+    padding-top:2%;
+  }
+
+  #heading{
+      font-family:Impact;
+  }
+
+  footer{
+    bottom:0;
+    position: fixed;
+    width: 100%
+  }
+  input[type=radio] {
+   
+    height: 18px;
+}
+
+  #story{
+    font-family: 'Alegreya', serif;
+    background-color: blueviolet;
+    padding: 20px;
+    color: white;
+    font-weight: bold;
+    word-spacing: 5px;
+    border-radius: 10px;
+    font-size: 25px;
+  }
+  div.scroll{
+    overflow-y: auto;
+    margin-bottom:30px;
+  }
+  input{
+    text-align:center;
+    font-size: 25px;
+    width: 15%
+  }
+
+  hr{
+    height:2px;
+    background-color: black;
+  }
+span{
+  font-size: 25px;
+}
+
+.activity{
+  width: 100%;
+  height:450px;
+  background-color: rgb(164, 231, 247);
+  display: flex;
+  justify-content: center;
+  padding-top:10px;
+}
+.activity p{
+  font-size: 18px;
+}
+ 
+#img-area{
+  width:40%;
+  
+  
+
+
+  
+}
+#content-area{
+  width:60%;
+
+}
